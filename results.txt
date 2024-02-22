@@ -1,0 +1,539 @@
+
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "The power of one day",
+            "summary": "The most important details in this text are the quotes by Thomas Edison and Jay Shetty. Thomas Edison said, "When you feel you've exhausted all options, remember this? You haven't, that's the power of one more, one more." Jay Shetty said, "I have lived this book in my life like I have lived this mindset and it has changed my life because I've always been just one step away, one habit away, one mindset away from this amazing life that I'm grateful and blessed." These quotes emphasize the importance of taking one more step, one habit, and one mindset to achieve an amazing life."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Truth",
+            "summary": "The great lie in life is that I, you know, some scriptures say, well, where there's no vision that people will perish whatever your scriptures are really. Do you have no vision? If you ask the average person, you wanna be happy or sad. What's your vision? They'd say I want to be happy. You wanna be rich or poor? Most people say I'd like to be rich. Do you wanna contribute or make no difference in the world? I wanna contribute. Do you want beautiful memories or no memories? I want memories. So there's a vision. Our issue is depth perception. We think it's further away than it is and because we think it's so far away, Jay, we create patterns and behaviors in our life that perpetually keep it there."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Life",
+            "summary": "The truth is that you're one relationship away, one meeting away, one conversation, one podcast, one interview, one new thought, one new emotion, one new tactic or strategy away from completely changing the trajectory of your life and everyone that you and I know that we both work with that we're blessed to work with in our lives. The strategies are in the book, but conceptually that's 100% how you change your life."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Recovery from Injury",
+            "summary": "The speaker experienced a month-long recovery from an injury that left them unable to walk. They initially felt healing was far away, but made a 1% change since yesterday, feeling less pain in their nerves and being more flexible by 1%."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Obsession with goals can lead to missing out on other experiences",
+            "summary": "Living with the expectation of one mores can filter them into awareness, leading to sensory acuity and hearing conversations you weren't hearing."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of Things",
+            "summary": "Believing in something and proving it to be true is important, as demonstrated by the author's father's attempts to get sober."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "The power of one more",
+            "summary": "The speaker's father told them that they loved them and deserved a father, and that every great thing they do in life is born from love. He then got sober and came home from rehab, promising to not drink for one more day at a time. The speaker knows the power of one more and that humans can change, as they watched their hero do so."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Difficult times",
+            "summary": "Watched his dad live his 1st 15 years, leading to fights, lying, and difficult times. Believes that these experiences qualify him for success and happiness."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Alcoholism",
+            "summary": "The person who helped Jay Shetty's dad was a drunk, an alcoholic, a drug addict, and a liar and thief, but the one thing that qualified them to help was the one thing that disqualified them from having a successful life."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Drug addiction",
+            "summary": "The speaker's experience with drug addiction helped their father live one more day, and they believe that it turned into a purpose. They explain that pain is temporary and that if they can survive it, they can meet another version of themselves on the other side. The speaker also mentions watching their father pass away last year and emphasizes the importance of appreciating the present moment and finding meaning in life."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Personal Growth",
+            "summary": "The speaker emphasizes the importance of personal growth and learning to help others who used to be like us, including those who are broken or financially struggling."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Attachment to Outcome",
+            "summary": "People get tied to the result and when they try it the next day and the sales meeting doesn't go their way or the pitch doesn't go their way, they go. Ah, it doesn't work. It doesn't work. Why didn't it work? And how should we respond when we fail or get rejected?"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "this or that",
+            "summary": "But in the moment of execution, you have to separate from outcome in the moment that you're executing and just be present and exist."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Operating out of imagination and vision",
+            "summary": "Creating from a place of imagination and vision allows for new possibilities and freedom from the result in the moment."
+        },
+        {
+            "topic": "Hanging around with people who serve us",
+            "summary": "We are the product of the people we hang around. It is important to listen to the people around us and determine if they serve us or not."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Friendship",
+            "summary": "The speaker emphasizes the importance of distinguishing between being with friends and being a friend. They suggest that friends often bring up memories and history, which can lead to a focus on the past rather than the present and future. The speaker questions how often friends ask about one's current work, goals, and vision, and suggests that this focus on the present and future can be beneficial."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Being present and having a vision for the future",
+            "summary": "A formula for misery, a formula for lack of creativity, lack of productivity is constantly being history and memory. And for most of us it's not good and we keep living from it or trying to move away from it. Create a new future. Don't move away from the past. Create a brilliant imaginative, curious, vibrant vision for your life."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Memory",
+            "summary": "Our memory is slightly warped of the past, it can make things feel much better or much worse sometimes."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Why does he still play?",
+            "summary": "He said it's because there's someone who's paid for a ticket today, they saved up and this is the only time they're ever gonna be able to come. Maybe a son's b maybe a dad's brought his kid, maybe someone's come to the game, they're a lifelong fan and they came today and today's the only day they're gonna get to see me. And if I say I'm injured, they won't get to see me. So I'm gonna play. So that, that person gets to see me play and then he goes and wins and it's like, that's lo"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Love",
+            "summary": "Love is not just for the past, it is also for the present moment. When my dad got sick, he fought cancer for eight years, losing his hair and suffering pain. He said he wouldn't suffer, but he did."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Grandkids",
+            "summary": "The speaker is in pain but not suffering because they get to see their grandkids again. They were in the same gym a week before Kobe passed away and watched him walk out of the gym with his youngest daughter."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Death of Kobe Bryant",
+            "summary": "The speaker expresses regret for not hugging their daughter more often and for not taking the opportunity to tell loved ones how much they care before it was too late. They reflect on the deaths of Kobe Bryant and their own father and how they wish they had expressed their love more openly."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of right now and creating the future",
+            "summary": "The most important details in this text are that most people think Jay everyone else is going to die and that they should be fully present in creating the future. They should not spend their minute in history or the past, but rather in creating the future."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Time",
+            "summary": "The speaker's father taught them to focus on the present and not dwell on the past, as there will eventually be no more days. They discuss the concept of time and how it has changed over the years, with letters taking days to deliver in 1900 and only 30 days later in 1850."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Time management",
+            "summary": "The speaker is discussing their approach to time management and productivity, emphasizing the importance of changing one's time to maximize bliss and productivity. They mention their TV show "Change" and their personal commitment to meditation, which they have integrated into their daily routine. The speaker credits their friend Jay Shetty for introducing them to meditation and mentions that they now practice it multiple times a day."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Mindfulness",
+            "summary": "The speaker is talking about how to be fully present and how to set standards that will get goals. They also talk about how to become more intentional and outcome oriented about the things we feel in our life."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Emotional home",
+            "summary": "The speaker emphasizes the importance of focusing on emotional well-being and creating a positive emotional home. They suggest that many people experience regular emotions such as fear, anxiety, worry, depression, anger, and that it is possible to shift the focus to emotions like bliss, peace, joy, creativity, and ecstasy. The speaker is currently working on cultivating one more beautiful emotion for their emotional moment, which is peace."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "about what you've been saying",
+            "summary": "Like, we're not living in the past and you're like in the present. But to have you answer that question, that piece is your presence. Like that's what you're looking for. That's, that's the present and it shows that you're using this, like it works, you're doing it time and time again. And I love what you said. It moves from the physical things into the subtle, into the emotional, into the, the deeper I, I think that's so profound. What was that one that if you didn't do it, you wouldn't be here today. What was, what was one of those ones that like, ah, like that was the one that convinced me apart from obviously your father that you were like, ah, if I didn't do that, I wouldn't be my let today, I wouldn't be maxed out like the first, spk_0: the first bu"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Business",
+            "summary": "The speaker's business went backwards, causing emotional difficulty. They called their sober dad for advice, focusing on gym reps, treadmill time, and contacts. The speaker has not done 10 reps in 30 years, but has done 45 minutes plus one more."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Business",
+            "summary": "The business is crashing and I'm running out of money. Our power was turned off. Our water was turned off, Jay. We had to take my wife every morning. We'd lost our house. We're living in an apartment now, then the water got turned off. You can't cook, you can't bathe. There was a apartment building. We had an outdoor shower at the swimming pool. And I'd have to wear newlyweds and I'd have to get up every morning, walk down there and I'd hold a towel up while my wife took her shower every day outdoors and brush her teeth and then she'd switch and hold the towel up for me. And I'd walk back up to the apartment and I was so emasculated, so ashamed, so embarrassed."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Selling a dream",
+            "summary": "Entrepreneurs can relate to the struggle of selling a dream to everybody every day."
+        },
+        {
+            "topic": "Need to quit",
+            "summary": "The speaker considered quitting due to the success thing not being for people like them."
+        },
+        {
+            "topic": "One more day",
+            "summary": "The speaker's dad encouraged them not to quit for one more day and to see how they felt the next day."
+        },
+        {
+            "topic": "Didn't want to quit anymore",
+            "summary": "After 30 days, the speaker no longer wanted to quit."
+        },
+        {
+            "topic": "Gratitude",
+            "summary": "The speaker is grateful for the one more day they did not quit, as it led to them not wanting to quit anymore."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "fulfilling dream",
+            "summary": "not giving up on one's dream"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "People feel like they tried a lot and then they start building up resentment and like pain and bitterness towards that path.",
+            "summary": "And a lot of people also that I know they just think that there are some people that are meant to be and then there are some people that are not meant to be and they carry that with them."
+        },
+        {
+            "topic": "How does this rule? How does this principle apply to some people like us?",
+            "summary": "The principle applies to som"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Self-confidence",
+            "summary": "The speaker grew up with no self-confidence, was bullied in school, and believes that self-confidence is part of keeping promises to yourself. However, they raise the standard higher and believe that you will get what you believe you deserve."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Self-confidence",
+            "summary": "The speaker did not have a lot of self-confidence, but they developed it by doing small things every day. They started to convince themselves that they deserved things other people weren't willing to do, and the likelihood of them being successful was bigger."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Self-care",
+            "summary": "The speaker believes that discomfort creates self-respect, and that taking one more risk and meeting one more discomfort can lead to self-esteem and trust."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Uncomfortable Conversations",
+            "summary": "The most successful and happy people have more uncomfortable conversations, days, and discomfort in their lives, but they select the discomfort that they have."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "One more",
+            "summary": "How does one use one more and make sure it's in the right direction?"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of asking oneself what matters to them",
+            "summary": "It's important to ask oneself what matters to them, as the things that mattered to them 20 years ago are different than what matters to them now."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Recognition",
+            "summary": "It's no longer what fills me. Now, you get me to do an interview. You go, hey, I really think we could help some people. My big button in my life now is contribution."
+        },
+        {
+            "topic": "Contribution",
+            "summary": "There was another stage in my life. It's still there. But hey, if you go there, you'll grow. I still wanna grow. But I know mean now, right now I'm in a season of my life that's contribution it's giving. It's what fills my heart and I think it's checking in with yourself one more time. What matters to me. Now, what do I want now? What's important to me? Now, what season? Maybe you're in a season where you need to rest. Maybe your spirit and everything about"
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of Checking in with Yourself",
+            "summary": "The speaker emphasizes the importance of checking in with oneself regularly, not just with their partner, to avoid losing themselves in the pursuit of their business or career."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Thriving in the season",
+            "summary": "The speaker is learning how to thrive in the season, and is prepared for the rain."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of Checking in from Time to Time",
+            "summary": "The speaker emphasizes the importance of checking in from time to time to identify the current great thing in one's life, whether it's a big movie, song, or personal achievement."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of doing something great",
+            "summary": "The speaker emphasizes the importance of doing something great, regardless of the form it takes. They suggest that it can be as simple as helping someone else, connecting with them, or reminding oneself of one's greatness. The speaker believes that everyone is born to do something awesome and that families should strive to do great things together. They encourage individuals to reflect on what they can do to make a positive impact and to ask themselves what they are passionate about."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Importance of Self-Belief",
+            "summary": "The speaker emphasizes the importance of self-belief and not being obsessed with doing something great that has to be big and bold. They share their personal journey of not believing in their abilities, but through their experiences, they have come to understand that greatness can come in various sizes."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Motivation",
+            "summary": "The speaker doesn't vibe with arbitrary abstract goals of motivation, but rather with the fact that they want to have a great impact on the person who helped their father."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Life",
+            "summary": "The universe or God really prepares you to step into the next room when you step in with some faith. And so maybe it does start with five or six people and maybe that's enough. But perhaps in that space you're in, there'll be a little door open. And if you step into that one, you'll, you'll find, I think we think I have to have it all figured out. Wozniak's a good buddy of mine who started Apple. They didn't, they were a board company. They didn't know they be doing this someday. They stepped into the next space."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Life",
+            "summary": "Sometimes you feel like you are blind and don't know where you are swinging, but you are still swinging."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Life",
+            "summary": "Most people quit on their dream, quit on their vision before the candy comes out. And what you have to be willing to buy into what is invisible progress."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "The power of one more",
+            "summary": "Ed Mile encourages people to keep hitting their life's pinata, as there will be some candy come out eventually. He recommends reading his book "Max Out Your Life" and listening to his podcast."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "The Out Podcast",
+            "summary": "Ed's energy is infectious and inspiring, and he has given the speaker a list of number ones to do. They hope to keep connecting offline and keep spending time together."
+        }
+    ]
+} 
+
+{
+    "version": 0.1,
+    "issues": [
+        {
+            "topic": "Strategic and obsessive to find your purpose.",
+            "summary": "The person is passionate about finding their purpose and is willing to go to great lengths to achieve it."
+        }
+    ]
+}
